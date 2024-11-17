@@ -10,4 +10,5 @@ this repo is to show how to use Markdown
 
 #Bold
 **This Text will be bolded**
+
 This text is not bolded
