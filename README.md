@@ -16,3 +16,22 @@ This text is not bolded
 #  Italicized
 
 _This test is italicised_
+
+# List
+
+unordered list
+
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++  Number 1
++  Number 2
++  Number 3
+  
+
+- 
