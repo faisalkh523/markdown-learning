@@ -9,5 +9,5 @@ this repo is to show how to use Markdown
 ###### Heading 6
 
 #Bold
-**This Text will be itaclic**
-
+**This Text will be bolded**
+This text is not bolded
