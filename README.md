@@ -12,3 +12,7 @@ this repo is to show how to use Markdown
 **This Text will be bolded**
 
 This text is not bolded
+
+#  Italicized
+
+_This test is italicised_
