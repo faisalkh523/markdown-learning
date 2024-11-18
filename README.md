@@ -51,3 +51,12 @@ ordered List: are created using numbers
 
 [Arewa Data Science Website](https://github.com/arewadataScience/python-programming-fellowship)
 
+# Image 
+
+# Code and Syntax
+
+'''python
+print ("Hello world")
+'''
+
+
