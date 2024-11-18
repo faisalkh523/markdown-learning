@@ -55,8 +55,8 @@ ordered List: are created using numbers
 
 # Code and Syntax
 
-'''python
+```python
 print ("Hello world")
-'''
+```
 
 
