@@ -59,4 +59,25 @@ ordered List: are created using numbers
 print ("Hello world")
 ```
 
+```bash
+git clone "link of repository"
+```
 
+| Name         | Role          | Department       |
+|---|---|---|
+| Faisal | Khalid | Hassan |
+| Abdullahi | Ibrahim | Musa |
+| Yunusa | Hassan | maimuna |
+
+# List
+
+- [x] Complete Markdown lecture
+- [ ] Prepare assignments
+- [ ] Review student submissions
+
+# Horizontal line
+
+---
+
+***
+***
